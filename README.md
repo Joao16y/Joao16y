@@ -3,7 +3,7 @@
 ## editando perfil
 
 
-- 🦂 ola, eu sou Joao16y
+- 🦂 ola, eu sou ***Joao16y***
 - 📧 Meu email de contato é joao.teixeira16@escola.pr.gov.br 
 - 👀 eu estou interessado aprender a programar novas linguagens
 - 🍃 eu estou aprendendo a programar recentemente a linguagem de java script e Scratch
